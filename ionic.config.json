@@ -1,0 +1,8 @@
+{
+  "name": "cameraApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d60536d4"
+}
